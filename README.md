@@ -1,5 +1,3 @@
-# Hello 
-
 ## Questão 01 
 Resultado - 77 
 
@@ -105,3 +103,4 @@ Resultado -
 
 
 ## Questão 05 - 
+<img src="https://github.com/VINIA6/TargetSistemas/blob/master/Q4/img/Sem%20t%C3%ADtulo-2024-07-18-1835.png" alt="Diagrama">
